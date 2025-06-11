@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fig.png"
+  avatar           : "fig.jpg"
   name             : "Jinlin Xiao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A sophomore student from Guangdong University of Technology"
   location         : "China"
   employer         : "Red Brick University"
   uri              : # URL
